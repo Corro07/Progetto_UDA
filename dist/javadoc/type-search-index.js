@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html","k":"18"},{"p":"registrofatture","l":"DialogFattura"},{"p":"registrofatture","l":"Fattura"},{"p":"registrofatture","l":"Gestore"},{"p":"registrofatture","l":"MainGui"},{"p":"registrofatture","l":"RegistroFatture"}];updateSearchResults();
